@@ -7,4 +7,4 @@
 - JavaScript
 
 ### Rights
-&copy; -[Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl/hub/news-homepage-mj65JZA1QB)
+&copy; [Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl/hub/news-homepage-mj65JZA1QB)
